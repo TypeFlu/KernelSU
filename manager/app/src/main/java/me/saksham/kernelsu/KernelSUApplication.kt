@@ -1,4 +1,4 @@
-package me.weishu.kernelsu
+package me.saksham.kernelsu
 
 import android.app.Application
 import android.system.Os
